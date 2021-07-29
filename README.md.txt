@@ -1,0 +1,1 @@
+This Page is like a Facebook Front Page.It is a clone page to display a Design. 
